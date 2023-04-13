@@ -34,4 +34,3 @@ python kmeans_image_compression.py
 n_clusters = 5
 
 
-This version should now display correctly as a README.md file on GitHub with proper Markdown formatting.
